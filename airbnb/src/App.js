@@ -1,17 +1,16 @@
 import './App.css';
+import Card from './components/Card';
 
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-     <h2>
-      This is just a test 
-     </h2>
-      </header>
+      <Navbar />
+       <Hero />
+       <Card />
     </div>
   );
 }
 
 export default App;
-
-///        <img src={logo} className="App-logo" alt="logo" />

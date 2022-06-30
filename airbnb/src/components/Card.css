@@ -1,0 +1,31 @@
+.por{
+  
+    display: grid; 
+    max-width:20%;
+    max-height: 20%;
+    border-radius: 9px;
+
+}
+
+.Card{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.star{
+    max-width:2%;
+    max-height: 2%;
+}
+
+.card--stats{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.grey{
+    color: grey;
+}
+.bold{
+    font-weight: bold;
+}
