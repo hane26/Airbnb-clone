@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+  font-size: small;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-family: 'Poppins';
+  font-weight: 1000;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
