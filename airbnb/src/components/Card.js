@@ -25,3 +25,7 @@ import star from './images/1828884.png';
   )
 }
 export default Card;
+
+
+// Language: javascript
+// === in Javascript is strict equality and it does return a boolean value
